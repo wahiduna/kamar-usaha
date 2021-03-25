@@ -15,12 +15,15 @@ body {
   user-select: none;
 }
 
+/* Media Query */
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
 }
 
+
+/* Media Query */
 @media (max-width: 991.98px) {
   .offcanvas-collapse {
     position: fixed;
